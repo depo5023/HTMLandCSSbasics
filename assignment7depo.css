@@ -1,0 +1,34 @@
+body{
+    background-color: tan;
+
+}
+p{
+    color:rgb(101, 154, 172);
+    font-weight: bold;
+}
+h1, h2 {
+    color: gray;
+}
+
+  
+ul {
+    border: 2px solid black;
+}
+  
+ol {
+    border: 2px solid lightblue;
+}
+  
+ol, ul {
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+  
+h1, strong {
+    color: lightgray;
+}
+  
+em {
+    color: gray;
+}
+  
